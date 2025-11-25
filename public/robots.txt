@@ -1,0 +1,17 @@
+
+User-agent: *
+Allow: /
+
+Sitemap: https://slowedandreverbgenerator.com/sitemap.xml
+
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: Twitterbot
+Allow: /
+
+User-agent: facebookexternalhit
+Allow: /
